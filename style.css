@@ -1,0 +1,51 @@
+body {
+	background-color: whitesmoke;
+}
+
+header{
+
+font-size: 20px;
+font-style: oblique;
+text-align: center;
+background-color: gainsboro;
+}
+
+#LoopUntil, #bish, #bosh {
+	align-items: center;
+}
+
+
+.footer{
+    padding: 2.5rem 0;
+    color: #727272;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+    margin-bottom: 0%;
+
+}
+
+.serie{
+    
+    text-align: center;
+
+  }
+.inputData, .description{
+		
+		text-align: center;
+		margin: auto;
+		width: 30%;
+		padding: 30px;
+}
+.inputData label {
+ 	
+    width: 66px;
+    text-align: inherit;
+ }
+ 
+ .click {
+ 	padding: 30px;
+    text-align: center;
+	color: aquamarine;
+}
+
